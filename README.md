@@ -19,4 +19,4 @@ This project utilizes Python to generate data visualizations on data extracted f
 ### New Orleans Vacation Rentals
 ![](/images/NOLA_Map2.png)
 
-remote_theme: pages-themes/slate@v0.2.0
+
