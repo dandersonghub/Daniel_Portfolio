@@ -18,7 +18,7 @@ This project utilizes Python to generate data visualizations on data extracted f
 ### Immigration Trends of Top 5 Countries
 ![](/images/Line_Plot2.png)
 
-### Mapped New Orleans Vacation Rentals
+### New Orleans Vacation Rentals
 ![](/images/NOLA_Map3.png)
 
 
