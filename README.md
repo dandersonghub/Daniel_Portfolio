@@ -19,6 +19,6 @@ This project utilizes Python to generate data visualizations on data extracted f
 ![](/images/Line_Plot2.png)
 
 ### New Orleans Vacation Rentals
-![](/images/NOLA_Map2.png)
+![](/images/NOLA_Map3.png)
 
 
