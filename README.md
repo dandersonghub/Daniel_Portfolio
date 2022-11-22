@@ -12,7 +12,7 @@ Descriptive statistics and correlation coefficients were calculated to review an
 # [Project 2: Logistic Regression](https://colab.research.google.com/github/dandersonghub/Data-Visualization/blob/main/Data_Visualization.ipynb)
 
 ### Confusion Matrix
-![](/images/conf_.png)
+![](/images/conf.png)
 
 
 # [Project 3: Data Visualization](https://colab.research.google.com/github/dandersonghub/Data-Visualization/blob/main/Data_Visualization.ipynb)
