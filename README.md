@@ -28,7 +28,15 @@ This project compares and evaluates the performance of multiple binary classific
 
 
 
-# [Project 4: Data Visualization](https://colab.research.google.com/github/dandersonghub/Data-Visualization/blob/main/Data_Visualization.ipynb)
+# [Project 4: Anomaly Detection](https://github.com/dandersonghub/Anomaly-Detection/blob/main/Anomaly-Detection.ipynb)
+This analysis used an Isolation Forest machine learning algorithm to identify overpayments in a synthetic claims data set. The dataset was generated with 1000 normal claims and 20 overpayments added to it. The Isolation Forest model was trained with a contamination rate of 0.05, meaning that it was designed to identify claims that were different from normal claims by 5%. The predictions from the model were used to filter the dataframe and only overpayments were returned. The results of this analysis demonstrate the effectiveness of the Isolation Forest algorithm in accurately identifying potential overpayments in a claims dataset. The model identified 51 claims that could be considered overpayments and require further investigation to validate its results.
+
+### Potential Healthcare Claims Overpayments
+![](/images/overpayments.png)
+
+
+
+# [Project 5: Data Visualization](https://colab.research.google.com/github/dandersonghub/Data-Visualization/blob/main/Data_Visualization.ipynb)
 This project utilizes Python to generate data visualizations on data extracted from the web. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to visualize trends, and patterns in data. The datasets explored in this project included immigration data from the United Nation's website and vacation rental data from the city of New Orleans' website. This project outlines the use of the following visualizations to explore data trends and insights, line plots, area plots, histograms, bar charts, pie charts, box plots, scatter plots, bubble plots, and maps. 
 
 ### Immigration Trends of Top 5 Countries
