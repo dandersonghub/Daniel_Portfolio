@@ -1,7 +1,7 @@
 Welcome to my Analytics/Data Science Portfolio. I am passionate about innovation and leveraging data analytics, data science, and machine learning to help businesses make informed decisions. Below are summaries of a few projects that I have recently completed. Click the project header links below in blue to explore all of the project's details, including code, additional visualizations, and interpretations.
 
 # [Project 1: Linear Regression](https://github.com/dandersonghub/EDA_Linear_Regression/blob/main/EDA_Linear_Regression.ipynb)
-This analysis includes both simple linear regression and multiple linear regression. The simple linear regression model examines the relationship between age and blood pressure and finds that age is a statistically significant predictor of blood pressure with a moderate correlation of 0.46 and a p-value <0.001. This means that for every one-year increase in age, systolic BP increases by 0.44 units on average. The R-squared value for the model is 0.23, indicating that 20% of the variation in systolic BP can be explained by age.
+This analysis includes both simple linear regression and multiple linear regression. The simple linear regression model examines the relationship between age and blood pressure and finds that age is a statistically significant predictor of blood pressure with a moderate correlation of 0.46 and a p-value <0.001. This means that for every one-year increase in age, systolic BP increases by 0.44 units on average. The R-squared value for the model is 0.23, indicating that 23% of the variation in systolic BP can be explained by age.
 
 ![](/images/LR.png)
 
